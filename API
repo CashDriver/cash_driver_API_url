@@ -1,0 +1,24 @@
+API Endpoint
+KZ6TW9JHHVEVY3I42H8N62PWQV5V4755B6
+
+
+
+
+API Total Suppley
+
+numeric API Link
+https://shiny-syrniki-37164d.netlify.app/.netlify/functions/api?q=totalcoins
+
+Bsc API LInk
+https://api.bscscan.com/api?module=stats&action=tokensupply&contractaddress=0x4E5EF3493BcfB5e7548913C3F2A40623Be7D7f98=KZ6TW9JHHVEVY3I42H8N62PWQV5V4755B6
+
+
+
+
+API circulating Suppley
+
+numeric API APP
+https://shiny-syrniki-37164d.netlify.app/.netlify/functions/api?q=circulating
+
+Bsc API Link
+https://api.bscscan.com/api?module=stats&action=tokenCsupply&contractaddress=0x4E5EF3493BcfB5e7548913C3F2A40623Be7D7f98=KZ6TW9JHHVEVY3I42H8N62PWQV5V4755B6
